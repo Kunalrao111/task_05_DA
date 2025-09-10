@@ -24,7 +24,7 @@ This dashboard provides a comprehensive analysis of sales performance, profit ma
   - Context-aware KPI
 
 ## 📁 Files Included
-- `task5.pbix` – Main Power BI dashboard file
+- `Task5.pbix` – Main Power BI dashboard file
 - `README.md` – This documentation file
 
 ## 🚀 How to Use
