@@ -24,7 +24,7 @@ This dashboard provides a comprehensive analysis of sales performance, profit ma
   - Context-aware KPI
 
 ## 📁 Files Included
-- `Task_04_SalesGrowth.pbix` – Main Power BI dashboard file
+- `task5.pbix` – Main Power BI dashboard file
 - `README.md` – This documentation file
 
 ## 🚀 How to Use
